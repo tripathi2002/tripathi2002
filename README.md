@@ -1,9 +1,15 @@
 # Hi, I'm Vibhu Tripathi 👋
 
-Full-stack web developer at **Destek Infosolutions**, based in **Bengaluru**.
+Software Developer at Digitide with 2 years of experience.
+Based in **Bengaluru**.
 I build web apps with Angular, Node.js/Express, PHP, WordPress and Next.js.
 
 - 💼 Open to opportunities
+
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibhu-tripathi-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vibhu.pro-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vibhu.pro)
+[![Email](https://img.shields.io/badge/Email-amtri2030%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amtri2030@gmail.com)
 
 ## 🛠 Tech I use
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
