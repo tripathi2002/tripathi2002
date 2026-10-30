@@ -48,9 +48,9 @@ I build web apps with Angular, Node.js/Express, PHP, WordPress and Next.js.
 <!-- LATEST_REPOS:END -->
 
 ## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tripathi2002&show_icons=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tripathi2002&layout=compact)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tripathi2002&theme=github_dark)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tripathi2002&theme=github_dark)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=tripathi2002)
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tripathi2002&hide_border=true)
+![Contribution graph](https://ghchart.rshah.org/tripathi2002)
